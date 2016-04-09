@@ -1,0 +1,2 @@
+How to run this project:
+http://www.freestudentprojects.com/java-projects/hand-written-pattern-recognition-system/
